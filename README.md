@@ -1,91 +1,69 @@
-# Hi there, I'm Juan Ramírez (JuanARamirez97) 👋
+<img alt="Hand Wave" src="https://raw.githubusercontent.com/Adityakanoi2001/Adityakanoi2001/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Juan Ramírez</h2>
 
-<img align="right" alt="Coding GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+### 👨🏻‍💻  About Me / Sobre mí
 
-## Informatics Engineering Student @ CUCEI, UdeG
-### Estudiante de Ingeniería en Informática
+👨‍💻  **EN:** Senior Informatics Engineering student @ **CUCEI, UdeG**. Focused on **Low-Level Systems** and **High-Performance Computing**.<br/>
+      **ES:** Estudiante de último semestre de Ing. en Informática. Enfocado en **Sistemas de Bajo Nivel** y **Computación de Alto Rendimiento**.<br/>
+💡  Enthusiast of **Linux** (Nobara) and TUI tools. I love developing software solutions that are efficient and secure.<br/>
+🚀  Currently leading **Altarf** (Clinical Records System) and developing **Enclypt** (C++ TUI Password Manager).<br/>
+🎓  Always learning! Currently deep-diving into **Rust**, **Microservices**, and **Cybersecurity**.<br/>
+✍️  In my free time, I write fantasy fiction (**"Edda del lobo"**) and enjoy retro-handheld emulation.<br/>
+💬  Feel free to reach out for interesting discussions about systems architecture, C++, or 80s synth-pop!<br/>
+✉️  You can shoot me an email at **juan.ramirez.aguilar@outlook.com**!
 
----
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350"/>
 
-### 👨‍💻 About Me / Sobre mí
-
-- **EN:** Senior student focused on **Low-Level Systems** and **High-Performance Computing**. Enthusiast of **Linux** and TUI tools. Currently developing clinical and security software.
-- **ES:** Estudiante de último semestre enfocado en **Sistemas de Bajo Nivel** y **Computación de Alto Rendimiento**. Entusiasta de **Linux** y herramientas TUI. Actualmente desarrollando software clínico y de seguridad.
-
----
-
-### 🚀 Featured Projects / Proyectos Destacados
+### 🚀  Featured Projects / Proyectos Destacados
 
 - **[Altarf](https://github.com/danybasulto/altarf)**: Clinical records and genetic analysis system for oncology (Django/PostgreSQL).
 - **[Enclypt](https://github.com/JuanARamirez97)**: TUI Password Manager written in C++ using `libsodium` and `ncurses`.
 - **[Notple](https://github.com/JuanARamirez97/Notple---A-Simple-Note-Bloc-App)**: A simple Note Bloc App.
 
----
+### 🛠  Tech Stack & Tools
 
-### 🛠 Languages and Tools / Lenguajes y Herramientas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,rust,py,c,js,react,django,postgres,docker,tailwind,linux,fedora,neovim,git" />
+  </a>
+</p>
 
-**Core & Systems**
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+### 🎧  Favorite Track / Mi Favorita
 
-**Web & Database**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<p align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3R2eXlsZXRreXF4eHd6Ym94bmR6eXN6eXN6eXN6eXN6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="100" /> 
+<br/>
+<b>Spandau Ballet - Gold</b> 📀
+</p>
 
-**Environment & DevTools**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nobara](https://img.shields.io/badge/-Nobara-white?style=flat-square&logo=fedora&logoColor=blue)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+> *Gold! Always believe in your soul* <br/>
+> *You've got the power to know* <br/>
+> *You're indestructible, always believe in...*
 
----
+[▶️ Listen on Spotify](https://open.spotify.com/track/3S2uSUn8p97Uv96O99r96v)
 
-<img align="right" alt="Music GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+### ⚙️  GitHub Analytics
 
-### 🎧 Favorite Track / Mi Favorita
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanARamirez97&show_icons=true&theme=react&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanARamirez97&layout=compact&theme=react&border_radius=10&hide=css,html" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanARamirez97&theme=react&border_radius=10" width="100%" />
+</p>
+
+### 🤝🏻  Connect with Me / Contacto
+
+<p align="center">
+<a href="https://JuanARamirez97.github.io/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juan-antonio-ramirez-aguilar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+### 🐍  That's How Commits move ...
 
 <div align="center">
-  <a href="https://open.spotify.com/track/3S2uSUn8p97Uv96O99r96v">
-    <img src="https://scannables.scdn.co/v1/svg/121212/white/640/spotify:track:3S2uSUn8p97Uv96O99r96v" width="400" alt="Spotify Code Gold">
-    <br/>
-    <img src="https://i.scdn.co/image/ab67616d0000b273769949669634e782803b9b94" width="300" style="border-radius:12px" alt="Spandau Ballet - Gold Cover">
-  </a>
-  <br/>
-  <strong>Spandau Ballet - Gold</strong> 📀
-  <br/>
-  <em>"Always believing in your soul!"</em>
+  <img src="https://raw.githubusercontent.com/JuanARamirez97/JuanARamirez97/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
-
-> **[▶️ Click aquí para escuchar "Gold" - Spandau Ballet](http://googleusercontent.com/spotify.com/6)**
-> *Always believing in your soul!*
-
----
-
-### 📊 GitHub Statistics / Estadísticas
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanARamirez97&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanARamirez97&theme=react&line_height=40&hide=css,html,sass"/>
-</div>
-
----
-
-### 📝 Contact with me / Contacto
-
-[<img align="left" alt="LinkedIn" height="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linked-in-alt/default.svg" />][linkedin]
-[<img align="left" alt="Portfolio" height="35px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-
-<br />
-<br />
 
 ---
 *⚡ Fun fact: I'm a "Tapatío" who loves 80s Synth-pop, Video Games and Futbol (Repeat after me: "The sport name is futbol or football, no soccer").*
-
-[website]: https://JuanARamirez97.github.io/
-[linkedin]: https://www.linkedin.com/in/juan-antonio-ramirez-aguilar/
