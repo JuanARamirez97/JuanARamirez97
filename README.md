@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,rust,py,c,js,react,django,postgres,docker,tailwind,linux,fedora,neovim,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,rust,py,c,js,react,django,postgres,docker,tailwind,linux,neovim,git" />
   </a>
 </p>
 
@@ -43,10 +43,11 @@
 
 ### ⚙️  GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanARamirez97&show_icons=true&theme=react&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanARamirez97&layout=compact&theme=react&border_radius=10&hide=css,html" width="48%" />
-</p>
+| Stats | Top Langs |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=JuanARamirez97&show_icons=true&theme=react&border_radius=10" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanARamirez97&layout=compact&theme=react&border_radius=10&hide=css,html" width="350" /> |
+
+<br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanARamirez97&theme=react&border_radius=10" width="100%" />
