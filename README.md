@@ -4,12 +4,11 @@
 
 👨‍💻  **EN:** Senior Informatics Engineering student @ **CUCEI, UdeG**. Focused on **Low-Level Systems** and **High-Performance Computing**.<br/>
       **ES:** Estudiante de último semestre de Ing. en Informática. Enfocado en **Sistemas de Bajo Nivel** y **Computación de Alto Rendimiento**.<br/>
-💡  Enthusiast of **Linux** (Nobara) and TUI tools. I love developing software solutions that are efficient and secure.<br/>
+💡  Enthusiast of **Linux** and TUI tools. I love developing software solutions that are efficient and secure.<br/>
 🚀  Currently leading **Altarf** (Clinical Records System) and developing **Enclypt** (C++ TUI Password Manager).<br/>
 🎓  Always learning! Currently deep-diving into **Rust**, **Microservices**, and **Cybersecurity**.<br/>
-✍️  In my free time, I write fantasy fiction (**"Edda del lobo"**) and enjoy retro-handheld emulation.<br/>
 💬  Feel free to reach out for interesting discussions about systems architecture, C++, or 80s synth-pop!<br/>
-✉️  You can shoot me an email at **juan.ramirez.aguilar@outlook.com**!
+✉️  You can shoot me an email at **ing.jramirez@proton.me**!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350"/>
 
